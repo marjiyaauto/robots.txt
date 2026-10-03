@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marjiyaauto.github.io/marjiya.auto/sitemap.xml
