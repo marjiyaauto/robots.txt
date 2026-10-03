@@ -1,1 +1,15 @@
-https://github.com/marjiyaauto/marjiyaauto.github.io/robots.txt
+# robots.txt — Marjiya Auto Jashore
+# https://marjiyaauto.github.io/marjiya.auto/
+
+User-agent: *
+Allow: /
+
+# Block any private/admin paths if added later
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://marjiyaauto.github.io/marjiya.auto/sitemap.xml
+
+# Crawl delay (be polite to servers)
+Crawl-delay: 10
